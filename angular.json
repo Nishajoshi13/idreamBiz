@@ -27,6 +27,7 @@
             "outputPath": "dist/dashboard",
             "index": "src/index.html",
             "browser": "src/main.ts",
+            "baseHref": "/idreamBiz/",
             "polyfills": [
               "zone.js"
             ],
