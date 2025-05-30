@@ -1,0 +1,17 @@
+.content {
+  flex: 1;
+  padding: 16px;
+  overflow: auto;
+}
+
+mat-sidenav{
+    width: 85px;
+    padding: 0 16px;
+    background-color: rgb(17, 17, 72);
+    border-radius: 0;
+    color: #fff;
+}
+
+mat-sidenav-container{
+    height: 89%;
+}
